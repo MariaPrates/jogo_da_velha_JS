@@ -1,0 +1,32 @@
+/**/
+
+body {
+    text-align: center;
+    font-family: 'Roboto';
+    background-color: #7bd2f7;
+}
+
+.quadrado {
+    text-align: center;
+    width: 25%;
+    background: #997ff564;
+    display: inline-block;
+    padding: 5%;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.gamer, .master {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background: #eee;
+    cursor: pointer;
+}
